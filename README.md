@@ -1,17 +1,20 @@
-🎯 Learn Java in 60 Days ☕
+# 🎯 Learn Java in 60 Days ☕
+
 <div align="center">
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/Level-Beginner-%252300C851
-https://img.shields.io/badge/Days-60-%2523007BFF
-https://img.shields.io/badge/Contributions-Welcome-%2523FF6B6B
 
-✨ Transform from Absolute Beginner to Confident Java Developer in 60 Days ✨
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-%2300C851)
+![Days](https://img.shields.io/badge/Days-60-%23007BFF)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-%23FF6B6B)
 
-📚 Start Day 1 •
-🗺️ View Roadmap •
-💬 Join Discussion
+**✨ Transform from Absolute Beginner to Confident Java Developer in 60 Days ✨**
+
+[**📚 Start Day 1**](Days/Day-01/README.md) • 
+[**🗺️ View Roadmap**](roadmap.md) • 
+[**💬 Join Discussion**](https://github.com/yourusername/LearnJavaIn60Days/discussions)
 
 </div>
+
 📖 About This Journey
 "The expert in anything was once a beginner." - Let's start your Java adventure! 🎉
 

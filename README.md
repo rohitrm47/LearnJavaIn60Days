@@ -59,6 +59,8 @@ cd LearnJavaIn60Days
 
 # Start with Day 1!
 cd Days/Day-01
+
+
 🌟 What Makes This Different?
 🗓️ Structured Daily Progression - No more random tutorials
 
@@ -121,3 +123,4 @@ Just a computer and internet connection. We'll guide you through installing ever
 🚀 Ready to Begin Your Journey?
 📚 Start Day 1 Now!
 ⭐ Don't forget to star this repository if you find it helpful!
+

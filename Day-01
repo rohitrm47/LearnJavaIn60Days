@@ -1,0 +1,77 @@
+📄 Days/Day-01/README.md:
+# Day 1: Java Setup & First Program ☕
+
+## 🎯 Today's Goals
+- ✅ Install Java Development Kit (JDK)
+- ✅ Set up development environment  
+- ✅ Write and run first Java program
+- ✅ Understand basic Java syntax
+
+## 🛠️ Step 1: Install Java
+
+### Download JDK
+- **[Oracle JDK](https://www.oracle.com/java/technologies/downloads/)** (Official)
+- **[OpenJDK](https://openjdk.org/)** (Free open-source)
+
+### Verify Installation
+```bash
+java -version
+javac -version
+
+💻 Step 2: Choose Your IDE
+Option 1: VS Code (Recommended)
+Download VS Code
+
+Install "Extension Pack for Java"
+
+Option 2: IntelliJ IDEA
+Download IntelliJ Community Edition
+
+🚀 Step 3: Your First Java Program
+Create HelloWorld.java:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("🎉 Welcome to Java Journey!");
+        System.out.println("🌟 Today is Day 1 of 60");
+        System.out.println("💪 You're becoming a Java developer!");
+    }
+}
+
+How to Run:
+Save file as HelloWorld.java
+
+Open terminal in folder
+
+Compile: javac HelloWorld.java
+
+Run: java HelloWorld
+
+🎯 Exercises
+Exercise 1: Personalize Your Message
+Modify the program to:
+
+Print your name
+
+Print your learning goal
+
+Add 3 different emojis
+
+Exercise 2: Pattern Printing
+
+Create patterns using System.out.println():
+System.out.println("   *");
+System.out.println("  ***");
+System.out.println(" *****");
+
+✅ Day 1 Checklist
+☕ JDK installed successfully
+
+💻 IDE setup completed
+
+🎯 First program running
+
+📝 Exercises completed
+
+⭐ Starred this repository!
+
+Next: Day 2 - Variables & Data Types
